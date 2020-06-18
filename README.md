@@ -197,7 +197,7 @@ And Grid-search is used to find the optimal hyperparameters of a models which re
 |Randon Forest|0.027269|0.059543|0.015244|
 
 ## Youtube link to the project
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7oRnX0kCon0&t=5s)
+[![Youtube Video](https://github.com/Rishika-Rathore/ML-Project/blob/master/youtube%20lcon.png)](https://www.youtube.com/watch?v=7oRnX0kCon0&t=5s)
 
 
 ## Future Work
